@@ -27,8 +27,7 @@
 
     /* Typography */
 
-    --font-size-desktop: 14px;
-    --font-size-mobile: 18px;
+    --font-size-paragraphe: 14px;
 }
 
     /* Custome class */
@@ -48,7 +47,7 @@
     /* Custome css */
 
 body{
-    font-size: var(--font-size-desktop) !important;
+    font-size: var(--font-size-paragraphe) !important;
     background-color: var(--Off-Black) !important;
     display: grid;
     place-items: center;
@@ -81,10 +80,6 @@ footer{
     /* Mobile view */
 
 @media (max-width:750px){
-    body{
-        font-size: var(--font-size-mobile) !important;
-    }
-
     main{
         width: 90% !important;
         height: auto;

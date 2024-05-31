@@ -18,8 +18,8 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL:(https://your-solution-url.com)
-- Live Site URL:(https://your-live-site-url.com)
+- Solution URL:(https://github.com/IZY-BOY/SocialLinksProfileChallenge.git)
+- Live Site URL:(https://izy-boy.github.io/SocialLinksProfileChallenge/)
 
 ### Built with
 
