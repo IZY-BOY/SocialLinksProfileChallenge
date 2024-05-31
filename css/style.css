@@ -85,4 +85,8 @@ footer{
         height: auto;
         margin:100px 0;
     }
+
+    footer{
+        visibility: hidden;
+    }
 }
